@@ -1,1 +1,1 @@
-//////////console.log("second js created throgh vs code");
+console.log("second js created throgh vs code");
