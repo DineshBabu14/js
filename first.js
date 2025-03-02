@@ -1,1 +1,1 @@
-creted first js file here and updated
+created first js file here and updated
